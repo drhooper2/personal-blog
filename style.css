@@ -1,0 +1,22 @@
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.highlight {
+    color: blue;
+    text-transform: capitalize;
+}
+
+.decoration {
+    text-decoration: underline;
+}
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
