@@ -9,8 +9,9 @@ body {
 }
 
 header { 
-    background: #333;
-    color: #fff;
+    background: url('https://th.bing.com/th?id=OIP.mvCrVBrhhR2dA6HesfdjHAHaEi&w=319&h=195&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2') no-repeat center center;
+    background-size: cover;  /* Ensures the image covers the entire header */
+    color: #fff; /* Keeps the text readable */
     padding: 1em 0;
     text-align: center;
 }
